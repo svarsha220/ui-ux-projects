@@ -13,6 +13,8 @@ The poster was crafted using Canva, focusing on a futuristic aesthetic to align 
 
   [Canva Link of the poster](https://www.canva.com/design/DAGYPdGY53s/_TzK0jEh0ymZvXJ4qZWX2w/view?utm_content=DAGYPdGY53s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h93b31587b2)
 
+
+
 * # Video Creation :
 To complement the poster, I created a promotional video featuring dynamic visual effects that bring the theme of sustainability and technology to life. The video leverages smooth transitions, motion graphics, and carefully chosen visuals to engage the audience and reinforce the event’s purpose.
 
@@ -25,6 +27,8 @@ To complement the poster, I created a promotional video featuring dynamic visual
 https://github.com/user-attachments/assets/cbcdeff6-1e17-4241-8a2d-ec8fec26e233
 
 [Canva link of the promotional video](https://www.canva.com/design/DAGYPw43ZOg/yTm-d-Ly28VohdpcJtmqlA/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
+
+
 
 * # Mascot Design :
 
