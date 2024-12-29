@@ -2,7 +2,7 @@
 # Poster Design
 The poster was crafted using Canva, focusing on a futuristic aesthetic to align with the event’s technological and sustainable theme.
 
-<h4>Design Process</h4>:
+<h4>Design Process</h4>
 
 * ***Theme Selection***: A futuristic background to symbolize innovation and sustainability.
 * ***Typography***: Modern fonts that enhance readability and create a visual hierarchy.
@@ -14,9 +14,10 @@ The poster was crafted using Canva, focusing on a futuristic aesthetic to align 
 # Video Creation
 To complement the poster, I created a promotional video featuring dynamic visual effects that bring the theme of sustainability and technology to life. The video leverages smooth transitions, motion graphics, and carefully chosen visuals to engage the audience and reinforce the event’s purpose.
 
-<h4>Video Highlights</h4>:
+<h4>Video Highlights</h4>
 
-Futuristic animations to mirror the poster’s aesthetic.
-Visual effects that highlight key event features.
-Seamless synchronization of visuals and theme for maximum impact.
+* Futuristic animations to mirror the poster’s aesthetic.
+* Visual effects that highlight key event features.
+* Seamless synchronization of visuals and theme for maximum impact.
 
+[Drive link of the promotional video](https://drive.google.com/file/d/12T3BsgYlmNrlrDIsC6pzOpBMlUqscUHq/view?usp=drive_link)
